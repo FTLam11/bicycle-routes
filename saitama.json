@@ -1,0 +1,610 @@
+{
+  "saitama": [
+    {
+      "region": "利根",
+      "route_name": "01 川沿いを走る日本一長いサイクリングロード",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/01_kawazoi-nihonichi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/01_kawazoi-nihonichi.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "03 埼玉農業の歴史を学ぶルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/03_saitama-nogyo.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/03_saitama-nogyo.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "64 「のぼうの城」の歴史と利根の自然を満喫するルート　",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/64_nobounoshiro.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/64_nobounoshiro.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "65 ぐるっと回る加須全域ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/65_kazo-zeniki.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/65_kazo-zeniki.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "66 童謡のふる里ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/66_douyo-furusato.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/66_douyo-furusato.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "67 加須の歴史を訪ねてルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/67_kazo-rekishi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/67_kazo-rekishi.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "68 北川辺水郷ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/68_kitakawabe.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/68_kitakawabe.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "69 ムジナもんと一緒に羽生を巡ろうルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/69_muzinamon.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/69_muzinamon.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "70 花祭り満喫ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/70_hana-matsuri.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/70_hana-matsuri.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "71 柴山沼、黒浜沼を巡る自然満喫ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/70_hana-matsuri.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/71_shibayama-numa.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "72 権現堂・栗橋・鷲宮堪能ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/72_gongendo-kurihashi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/72_gongendo-kurihashi.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "73 のびのび宮代町を楽しむルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/73_miyashiromachi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/73_miyashiromachi.gpx"
+    },
+    {
+      "region": "利根",
+      "route_name": "74 道の駅アグリパークゆめずきとと七福神を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/74_agruripark.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/74_agruripark.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "02 三大河川巡りでぐるり埼玉づくしルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/02_sandai-kasenmeguri.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/02_sandai-kasenmeguri.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "04 農業用水路を走るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/04_nogyo-yosui.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/04_nogyo-yosui.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "20 春日部・藤棚をくぐるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/20_kasukabe-fujidana.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/20_kasukabe-fujidana.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "21 レンタサイクルで庄和を満喫するルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/21_syouwa-mankitsu.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/21_syouwa-mankitsu.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "22 草加せんべい松並木のルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/22_souka-senbei.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/22_souka-senbei.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "23 越谷の今昔を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/23_koshigaya-konjaku.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/23_koshigaya-konjaku.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "24 中川ふれあいルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/24_nakagawa-fureai.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/24_nakagawa-fureai.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "25 みさと公園と江戸川を結ぶルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/25_misato-koen.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/25_misato-koen.gpx"
+    },
+    {
+      "region": "東部",
+      "route_name": "26 なまずの里吉川ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/26_namazu-no-sato.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/26_namazu-no-sato.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "07 荒川探訪ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/07_arakawa-tanbou.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/07_arakawa-tanbou.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "09 川幅日本一体感ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/09_kawahaba-nihonichi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/09_kawahaba-nihonichi.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "10 見沼の自然と埼スタぐるっとルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/10_minuma-saisuta.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/10_minuma-saisuta.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "11 大宮の魅力発見ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/11_omiya-miryoku.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/11_omiya-miryoku.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "27 日本一を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/27_nihon-ichi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/27_nihon-ichi.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "28 花と音楽を楽しむルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/28_hana-ongaku.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/28_hana-ongaku.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "29 都市と自然の回遊軸ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/29_toshi-to-sizen.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/29_toshi-to-sizen.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "30 桶川・田園と歴史を再発見するルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/30_okegawa-rekishi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/30_okegawa-rekishi.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "31 桶川・田園と川のルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/31_okegawa-kawa.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/31_okegawa-kawa.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "32 北本・桜と緑豊かな公園のルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/32_kitamoto-sakura.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/32_kitamoto-sakura.gpx"
+    },
+    {
+      "region": "県央",
+      "route_name": "33 伊奈・バラと桜の花めぐりルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/33_ina-bara-sakura.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/33_ina-bara-sakura.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "08 自転車道体験ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/08_jitensyado-taiken.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/08_jitensyado-taiken.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "12 あんぎょうの花と緑を体感するルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/12_angyo-hana.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/12_angyo-hana.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "13 芝川で「農」を体感するルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/13_sibagawa.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/13_sibagawa.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "14 南部まちめぐりルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/14_nanbu-machimeguri.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/14_nanbu-machimeguri.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "15 水辺の公園めぐりルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/15_mizube-koen.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/15_mizube-koen.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "16 朝霞・和光 自然とふれあい文化財をめぐるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/16_asaka-wako.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/16_asaka-wako.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "17 新座・志木 自然や歴史をめぐるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/17_niiza-shiki.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/17_niiza-shiki.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "18 新河岸川の自然歴史を訪ねるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/18_shingashigawa.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/18_shingashigawa.gpx"
+    },
+    {
+      "region": "南部南西部",
+      "route_name": "19 三富新田を中心とした歴史と自然景観を楽しむルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/19_mitomi-shinden.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/19_mitomi-shinden.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "34 川越・田園と川の自然満喫ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/34_Kawagoe-denen.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/34_Kawagoe-denen.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "35 川越・小江戸の歴史めぐりルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/35_kawagoe-koedo.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/35_kawagoe-koedo.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "36 川越坂戸・史跡めぐりルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/36_kawagoe-sakado-shiseki.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/36_kawagoe-sakado-shiseki.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "37 坂戸・花と健康づくり応援ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/37_sakado-hana-kenko.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/37_sakado-hana-kenko.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "38 坂戸・花めぐりルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/38_sakado-hanameguri.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/38_sakado-hanameguri.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "39 日光街道杉並木歴史に触れるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/39_nikkokaido-sugi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/39_nikkokaido-sugi.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "40 ゆず香る歴史の道元気ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/40_yuzu-genki.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/40_yuzu-genki.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "41 ゆず香る歴史のみちルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/41_yuzu-rekishi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/41_yuzu-rekishi.gpx"
+    },
+    {
+      "region": "川越",
+      "route_name": "42 越生 滝と花をめぐる自然いっぱいの贅沢ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/42_ogose-taki-hana.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/42_ogose-taki-hana.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "05 BIG公園巡りルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/05_big-koenmeguri.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/05_big-koenmeguri.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "43 東松山・岩殿丘陵ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/43_iwadono.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/43_iwadono.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "44 国営武蔵丘陵森林公園を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/44_shinrin-koen.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/44_shinrin-koen.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "45 嵐山の歴史と自然の融合を満喫するルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/45_ranzan-rekishi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/45_ranzan-rekishi.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "46 和紙のさとを訪ねるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/46_washinosato.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/46_washinosato.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "47 三河川を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/47_sankasen.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/47_sankasen.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "48 川島の桜を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/48_kawashima-sakura.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/48_kawashima-sakura.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "49 遠山記念館を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/49_toyama-kinenkan.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/49_toyama-kinenkan.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "50 よしみを語ろう12選周遊ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/50_yoshimi-kataro.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/50_yoshimi-kataro.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "51 丘陵地と関東平野の始まりを走るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/51_hatoyama.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/51_hatoyama.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "52 ときがわ里山ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/52_tokigawa-satoyama.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/52_tokigawa-satoyama.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "53 ときがわ景観ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/53_Tokigawa-keikan.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/53_Tokigawa-keikan.gpx"
+    },
+    {
+      "region": "比企",
+      "route_name": "54 東秩父の峠挑戦ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/54_Higashi-chichibu.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/54_Higashi-chichibu.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "55 三富の歴史を感じるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/55_mitomi-rekishi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/55_mitomi-rekishi.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "56 多摩湖・狭山湖はしごルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/56_tamako-sayamako.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/56_tamako-sayamako.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "57 所沢航空記念公園探訪ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/57_tokorozawa.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/57_tokorozawa.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "58 川風サイクリング 花の小径をめぐるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/58_kawakaze-hakomichi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/58_kawakaze-hakomichi.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "59 飯能みどころ満載 まちなかの名所を訪ねるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/59_hanno-midokoro.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/59_hanno-midokoro.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "60 狭山ふれあいルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/60_sayama-fureai.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/60_sayama-fureai.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "61 入間・米軍ハウスにふらっと行くルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/61_iruma-beigunhouse.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/61_iruma-beigunhouse.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "62 巾着田を発着点とした歴史と自然を感じるルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/62_kinchakuda.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/62_kinchakuda.gpx"
+    },
+    {
+      "region": "西部",
+      "route_name": "63 日高市役所を発着点としたグルメルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/63_hidaka-gurume.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/63_hidaka-gurume.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "06 三偉人を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/06_san-izin.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/06_san-izin.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "75 熊谷南部荒川ふれあいルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/75_kumagaya-nanbu.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/75_kumagaya-nanbu.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "76 熊谷北部みどころルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/76_kumagaya-hokubu.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/76_kumagaya-hokubu.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "77 熊谷桜堤周遊ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/77_kumagaya-sakura.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/77_kumagaya-sakura.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "78 熊谷駅周辺ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/78_kumagayaeki-shuhen.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/78_kumagayaeki-shuhen.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "79 深谷郷土の偉人散策ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/79_fukaya-ijin.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/79_fukaya-ijin.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "80 深谷ヘルシールート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/80_fukaya-healthy.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/80_fukaya-healthy.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "81 深谷水と緑の回廊ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/81_fukaya-midori.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/81_fukaya-midori.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "82 寄居・日本（やまと）の里ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/82_yorii-yamato.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/82_yorii-yamato.gpx"
+    },
+    {
+      "region": "北部",
+      "route_name": "83 寄居・七福神が祭られているお寺を巡るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/83_yorii-shitifukujin.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/83_yorii-shitifukujin.gpx"
+    },
+    {
+      "region": "本庄",
+      "route_name": "84 児玉郡市周遊ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/84_kodama-shuyu.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/84_kodama-shuyu.gpx"
+    },
+    {
+      "region": "本庄",
+      "route_name": "85 児玉の原風景を回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/85_kodama-genfukei.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/85_kodama-genfukei.gpx"
+    },
+    {
+      "region": "本庄",
+      "route_name": "86 武州本庄周遊ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/86_busyu-honjo.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/86_busyu-honjo.gpx"
+    },
+    {
+      "region": "本庄",
+      "route_name": "87 榎峠、陣見山チャレンジルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/87_jinmiyama-challenge.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/87_jinmiyama-challenge.gpx"
+    },
+    {
+      "region": "本庄",
+      "route_name": "88 万葉の里みさと周遊ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/88_manto-misato.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/88_manto-misato.gpx"
+    },
+    {
+      "region": "本庄",
+      "route_name": "89 神川健康緑道周遊ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/89_kamikawa-kenko.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/89_kamikawa-kenko.gpx"
+    },
+    {
+      "region": "本庄",
+      "route_name": "90 上里町歴史めぐりルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/90_kamisato-rekishi.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/90_kamisato-rekishi.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "91 秩父札所３４カ所を回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/91_chichibu-fudasho34.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/91_chichibu-fudasho34.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "92 秩父4ダムを回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/92_chichibu-4dam.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/92_chichibu-4dam.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "93 ちちぶ歴史街道ミューズパーク正丸峠ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/93_chichibu-rekishi-muse.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/93_chichibu-rekishi-muse.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "94 秩父七福神を回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/94_chichibu-7fukujin.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/94_chichibu-7fukujin.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "95 長瀞羊山芝桜ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/95_nagatoro-shibazakura.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/95_nagatoro-shibazakura.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "96 秩父まちなかと名水を回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/96_chichibu-machinaka.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/96_chichibu-machinaka.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "97 秩父鉄道サイクルトレインで回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/97_cycling-train.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/97_cycling-train.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "98 オープンガーデンよこぜを回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/98_opengurden-yokoze.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/98_opengurden-yokoze.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "99 ぐるっと長瀞周回ルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/99_nagatoro-syukai.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/99_nagatoro-syukai.gpx"
+    },
+    {
+      "region": "秩父",
+      "route_name": "100 小鹿野歌舞伎・龍勢を回るルート",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/100_ogano-ryusei.kmz",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/gpx/100_ogano-ryusei.gpx"
+    },
+    {
+      "region": "おまけ",
+      "route_name": "「自転車みどころスポットを巡るルート100」全体図",
+      "kmz": "http://isonpu.web.fc2.com/other/cycle/route100s.jpg",
+      "gpx": "http://isonpu.web.fc2.com/other/cycle/route100.jpg"
+    }
+  ]
+}

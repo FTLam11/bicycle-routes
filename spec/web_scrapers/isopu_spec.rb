@@ -86,4 +86,24 @@ describe WebScrapers::Isopu do
       end
     end
   end
+
+  describe '#write_to_file' do
+    it 'writes route data to file' do
+      VCR.use_cassette('isopu-saitama-routes') do
+        scraper = WebScrapers::Isopu.new
+        sample_route = {
+          region: '利根',
+          route_name: '01 川沿いを走る日本一長いサイクリングロード',
+          kmz: 'http://isonpu.web.fc2.com/other/cycle/01_kawazoi-nihonichi.kmz',
+          gpx: 'http://isonpu.web.fc2.com/other/cycle/gpx/01_kawazoi-nihonichi.gpx'
+        }
+
+        scraper.scrape
+        scraper.write_to_file
+        scraped_route = JSON.parse(File.read('saitama.json'), symbolize_names: true)[:saitama][0]
+
+        expect(scraped_route).to eq(sample_route)
+      end
+    end
+  end
 end

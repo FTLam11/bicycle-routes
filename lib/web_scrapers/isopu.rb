@@ -32,7 +32,7 @@ module WebScrapers
     end
 
     def write_to_file
-      File.write('saitama.json', JSON.pretty_generate({ saitama: @route_data }))
+      File.write('saitama.json', JSON.pretty_generate({ saitama: route_data }))
     end
 
     private

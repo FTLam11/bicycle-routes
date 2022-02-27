@@ -13,9 +13,7 @@ module WebScrapers
 
     def initialize
       @doc = Nokogiri::HTML(
-        URI.open(
-          'http://isonpu.web.fc2.com/other/route100.html'
-        ), nil, 'utf-8', &:noblanks
+        URI.open("#{BASE_URL}route100.html"), nil, 'utf-8', &:noblanks
       )
       @current_region = nil
     end

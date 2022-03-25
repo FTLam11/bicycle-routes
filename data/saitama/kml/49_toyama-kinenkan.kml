@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>49 遠山記念館を巡るルート</name>
+	<open>1</open>
+	<Document>
+		<name>ルート</name>
+		<snippet>Created 07/08/16 23:41:40</snippet>
+		<LookAt>
+			<gx:TimeSpan>
+				<begin>2014-11-13T05:49:37Z</begin>
+				<end>2014-11-13T06:00:03Z</end>
+			</gx:TimeSpan>
+			<longitude>139.472875</longitude>
+			<latitude>35.990025</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>4981.200273</range>
+		</LookAt>
+		<Style id="multiTrack_n">
+			<IconStyle>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id="multiTrack_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="multiTrack">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#multiTrack_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#multiTrack_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<name>Tracks</name>
+			<Placemark>
+				<name>49 遠山記念館を巡るルート</name>
+				<styleUrl>#multiTrack</styleUrl>
+				<gx:Track>
+					<when>2014-11-13T05:49:37Z</when>
+					<when>2014-11-13T05:49:54Z</when>
+					<when>2014-11-13T05:50:15Z</when>
+					<when>2014-11-13T05:50:35Z</when>
+					<when>2014-11-13T05:50:51Z</when>
+					<when>2014-11-13T05:51:10Z</when>
+					<when>2014-11-13T05:51:26Z</when>
+					<when>2014-11-13T05:51:40Z</when>
+					<when>2014-11-13T05:51:49Z</when>
+					<when>2014-11-13T05:52:01Z</when>
+					<when>2014-11-13T05:52:13Z</when>
+					<when>2014-11-13T05:52:25Z</when>
+					<when>2014-11-13T05:52:32Z</when>
+					<when>2014-11-13T05:52:47Z</when>
+					<when>2014-11-13T05:53:01Z</when>
+					<when>2014-11-13T05:53:13Z</when>
+					<when>2014-11-13T05:53:27Z</when>
+					<when>2014-11-13T05:53:37Z</when>
+					<when>2014-11-13T05:53:47Z</when>
+					<when>2014-11-13T05:53:52Z</when>
+					<when>2014-11-13T05:53:57Z</when>
+					<when>2014-11-13T05:54:02Z</when>
+					<when>2014-11-13T05:54:06Z</when>
+					<when>2014-11-13T05:54:11Z</when>
+					<when>2014-11-13T05:54:15Z</when>
+					<when>2014-11-13T05:54:20Z</when>
+					<when>2014-11-13T05:54:26Z</when>
+					<when>2014-11-13T05:54:32Z</when>
+					<when>2014-11-13T05:54:46Z</when>
+					<when>2014-11-13T05:55:00Z</when>
+					<when>2014-11-13T05:55:14Z</when>
+					<when>2014-11-13T05:55:27Z</when>
+					<when>2014-11-13T05:55:42Z</when>
+					<when>2014-11-13T05:55:57Z</when>
+					<when>2014-11-13T05:56:13Z</when>
+					<when>2014-11-13T05:56:32Z</when>
+					<when>2014-11-13T05:56:49Z</when>
+					<when>2014-11-13T05:57:06Z</when>
+					<when>2014-11-13T05:57:26Z</when>
+					<when>2014-11-13T05:57:45Z</when>
+					<when>2014-11-13T05:58:03Z</when>
+					<when>2014-11-13T05:58:21Z</when>
+					<when>2014-11-13T05:58:37Z</when>
+					<when>2014-11-13T05:58:48Z</when>
+					<when>2014-11-13T05:59:01Z</when>
+					<when>2014-11-13T05:59:19Z</when>
+					<when>2014-11-13T05:59:30Z</when>
+					<when>2014-11-13T05:59:42Z</when>
+					<when>2014-11-13T05:59:53Z</when>
+					<when>2014-11-13T06:00:03Z</when>
+					<gx:coord>139.453473 35.997078 14</gx:coord>
+					<gx:coord>139.454354 35.995885 14</gx:coord>
+					<gx:coord>139.455416 35.994458 13</gx:coord>
+					<gx:coord>139.45641 35.993012 13</gx:coord>
+					<gx:coord>139.457223 35.991928 12</gx:coord>
+					<gx:coord>139.458194 35.990609 12</gx:coord>
+					<gx:coord>139.458962 35.989525 12</gx:coord>
+					<gx:coord>139.459707 35.988567 12</gx:coord>
+					<gx:coord>139.460159 35.987935 12</gx:coord>
+					<gx:coord>139.460792 35.987121 12</gx:coord>
+					<gx:coord>139.461379 35.986254 12</gx:coord>
+					<gx:coord>139.461966 35.985423 12</gx:coord>
+					<gx:coord>139.46233 35.985006 12</gx:coord>
+					<gx:coord>139.463405 35.985136 12</gx:coord>
+					<gx:coord>139.46444 35.98525 12</gx:coord>
+					<gx:coord>139.465299 35.985364 12</gx:coord>
+					<gx:coord>139.466314 35.985494 12</gx:coord>
+					<gx:coord>139.467057 35.985608 12</gx:coord>
+					<gx:coord>139.46774 35.985705 12</gx:coord>
+					<gx:coord>139.467857 35.985282 12</gx:coord>
+					<gx:coord>139.467922 35.984815 12</gx:coord>
+					<gx:coord>139.467994 35.98442 12</gx:coord>
+					<gx:coord>139.468072 35.984062 12</gx:coord>
+					<gx:coord>139.468155 35.983679 12</gx:coord>
+					<gx:coord>139.468228 35.983362 12</gx:coord>
+					<gx:coord>139.468346 35.982971 12</gx:coord>
+					<gx:coord>139.468756 35.983183 12</gx:coord>
+					<gx:coord>139.469171 35.983381 12</gx:coord>
+					<gx:coord>139.470097 35.983779 12</gx:coord>
+					<gx:coord>139.471069 35.984212 12</gx:coord>
+					<gx:coord>139.472017 35.984592 11.28</gx:coord>
+					<gx:coord>139.472943 35.984971 11</gx:coord>
+					<gx:coord>139.474005 35.98526 11</gx:coord>
+					<gx:coord>139.475044 35.985495 11</gx:coord>
+					<gx:coord>139.476219 35.98573 11</gx:coord>
+					<gx:coord>139.477574 35.985857 11</gx:coord>
+					<gx:coord>139.478816 35.985929 11</gx:coord>
+					<gx:coord>139.480058 35.985947 11</gx:coord>
+					<gx:coord>139.481549 35.98582 11</gx:coord>
+					<gx:coord>139.482949 35.985658 11</gx:coord>
+					<gx:coord>139.484237 35.985441 11</gx:coord>
+					<gx:coord>139.485524 35.98526 12</gx:coord>
+					<gx:coord>139.486654 35.98508 12</gx:coord>
+					<gx:coord>139.487448 35.984951 12</gx:coord>
+					<gx:coord>139.488357 35.984927 13</gx:coord>
+					<gx:coord>139.489521 35.985732 13</gx:coord>
+					<gx:coord>139.490203 35.9863 13</gx:coord>
+					<gx:coord>139.49097 35.986773 13</gx:coord>
+					<gx:coord>139.491623 35.98727 13</gx:coord>
+					<gx:coord>139.492277 35.987578 13</gx:coord>
+				</gx:Track>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>見どころスポット</name>
+		<snippet>Created 03/17/16 23:42:04</snippet>
+		<LookAt>
+			<longitude>139.474038</longitude>
+			<latitude>35.991931</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>4707.834394</range>
+		</LookAt>
+		<Style id="waypoint_n">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="waypoint">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#waypoint_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#waypoint_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="waypoint_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>Waypoints</name>
+			<Placemark>
+				<name>川島農産物直売所</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.454645,35.996219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>平成の森公園</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.4871,35.991671,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>遠山記念館</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.49343,35.987643,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

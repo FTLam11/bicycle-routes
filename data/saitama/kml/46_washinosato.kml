@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>46 和紙のさとを訪ねるルート</name>
+	<open>1</open>
+	<Document>
+		<name>ルート</name>
+		<snippet>Created 07/08/16 23:39:03</snippet>
+		<LookAt>
+			<gx:TimeSpan>
+				<begin>2014-10-31T04:07:05Z</begin>
+				<end>2014-10-31T04:27:16Z</end>
+			</gx:TimeSpan>
+			<longitude>139.241261</longitude>
+			<latitude>36.047953</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>8947.900379999999</range>
+		</LookAt>
+		<Style id="multiTrack_n">
+			<IconStyle>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id="multiTrack_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="multiTrack">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#multiTrack_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#multiTrack_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<name>Tracks</name>
+			<Placemark>
+				<name>46 和紙のさとを訪ねるルート</name>
+				<styleUrl>#multiTrack</styleUrl>
+				<gx:Track>
+					<when>2014-10-31T04:07:05Z</when>
+					<when>2014-10-31T04:07:25Z</when>
+					<when>2014-10-31T04:07:39Z</when>
+					<when>2014-10-31T04:07:54Z</when>
+					<when>2014-10-31T04:08:14Z</when>
+					<when>2014-10-31T04:08:33Z</when>
+					<when>2014-10-31T04:08:49Z</when>
+					<when>2014-10-31T04:08:58Z</when>
+					<when>2014-10-31T04:09:06Z</when>
+					<when>2014-10-31T04:09:13Z</when>
+					<when>2014-10-31T04:09:23Z</when>
+					<when>2014-10-31T04:09:32Z</when>
+					<when>2014-10-31T04:09:43Z</when>
+					<when>2014-10-31T04:09:52Z</when>
+					<when>2014-10-31T04:10:03Z</when>
+					<when>2014-10-31T04:10:17Z</when>
+					<when>2014-10-31T04:10:31Z</when>
+					<when>2014-10-31T04:10:45Z</when>
+					<when>2014-10-31T04:10:59Z</when>
+					<when>2014-10-31T04:11:10Z</when>
+					<when>2014-10-31T04:11:13Z</when>
+					<when>2014-10-31T04:11:22Z</when>
+					<when>2014-10-31T04:11:35Z</when>
+					<when>2014-10-31T04:11:50Z</when>
+					<when>2014-10-31T04:12:05Z</when>
+					<when>2014-10-31T04:12:19Z</when>
+					<when>2014-10-31T04:12:28Z</when>
+					<when>2014-10-31T04:12:44Z</when>
+					<when>2014-10-31T04:12:56Z</when>
+					<when>2014-10-31T04:13:07Z</when>
+					<when>2014-10-31T04:13:15Z</when>
+					<when>2014-10-31T04:13:26Z</when>
+					<when>2014-10-31T04:13:41Z</when>
+					<when>2014-10-31T04:13:50Z</when>
+					<when>2014-10-31T04:13:59Z</when>
+					<when>2014-10-31T04:14:11Z</when>
+					<when>2014-10-31T04:14:20Z</when>
+					<when>2014-10-31T04:14:26Z</when>
+					<when>2014-10-31T04:14:40Z</when>
+					<when>2014-10-31T04:15:00Z</when>
+					<when>2014-10-31T04:15:20Z</when>
+					<when>2014-10-31T04:15:34Z</when>
+					<when>2014-10-31T04:15:42Z</when>
+					<when>2014-10-31T04:15:42Z</when>
+					<when>2014-10-31T04:15:50Z</when>
+					<when>2014-10-31T04:16:00Z</when>
+					<when>2014-10-31T04:16:04Z</when>
+					<when>2014-10-31T04:16:12Z</when>
+					<when>2014-10-31T04:16:19Z</when>
+					<when>2014-10-31T04:16:28Z</when>
+					<when>2014-10-31T04:16:38Z</when>
+					<when>2014-10-31T04:16:47Z</when>
+					<when>2014-10-31T04:16:59Z</when>
+					<when>2014-10-31T04:17:11Z</when>
+					<when>2014-10-31T04:17:24Z</when>
+					<when>2014-10-31T04:17:38Z</when>
+					<when>2014-10-31T04:18:00Z</when>
+					<when>2014-10-31T04:18:15Z</when>
+					<when>2014-10-31T04:18:25Z</when>
+					<when>2014-10-31T04:18:38Z</when>
+					<when>2014-10-31T04:18:49Z</when>
+					<when>2014-10-31T04:19:02Z</when>
+					<when>2014-10-31T04:19:09Z</when>
+					<when>2014-10-31T04:19:22Z</when>
+					<when>2014-10-31T04:19:34Z</when>
+					<when>2014-10-31T04:19:54Z</when>
+					<when>2014-10-31T04:20:10Z</when>
+					<when>2014-10-31T04:20:18Z</when>
+					<when>2014-10-31T04:20:28Z</when>
+					<when>2014-10-31T04:20:39Z</when>
+					<when>2014-10-31T04:20:54Z</when>
+					<when>2014-10-31T04:21:02Z</when>
+					<when>2014-10-31T04:21:12Z</when>
+					<when>2014-10-31T04:21:28Z</when>
+					<when>2014-10-31T04:21:59Z</when>
+					<when>2014-10-31T04:22:20Z</when>
+					<when>2014-10-31T04:22:32Z</when>
+					<when>2014-10-31T04:22:45Z</when>
+					<when>2014-10-31T04:23:01Z</when>
+					<when>2014-10-31T04:23:17Z</when>
+					<when>2014-10-31T04:23:38Z</when>
+					<when>2014-10-31T04:23:54Z</when>
+					<when>2014-10-31T04:24:09Z</when>
+					<when>2014-10-31T04:24:21Z</when>
+					<when>2014-10-31T04:24:37Z</when>
+					<when>2014-10-31T04:24:54Z</when>
+					<when>2014-10-31T04:25:10Z</when>
+					<when>2014-10-31T04:25:24Z</when>
+					<when>2014-10-31T04:25:40Z</when>
+					<when>2014-10-31T04:25:55Z</when>
+					<when>2014-10-31T04:26:16Z</when>
+					<when>2014-10-31T04:26:34Z</when>
+					<when>2014-10-31T04:26:47Z</when>
+					<when>2014-10-31T04:26:57Z</when>
+					<when>2014-10-31T04:27:16Z</when>
+					<gx:coord>139.278577 36.053 79.99999999999999</gx:coord>
+					<gx:coord>139.277124 36.052969 79.99999999999999</gx:coord>
+					<gx:coord>139.276143 36.053272 79.99999999999999</gx:coord>
+					<gx:coord>139.275126 36.053696 81</gx:coord>
+					<gx:coord>139.273709 36.054059 81.03</gx:coord>
+					<gx:coord>139.272364 36.054392 82</gx:coord>
+					<gx:coord>139.271201 36.054604 82</gx:coord>
+					<gx:coord>139.270584 36.054695 83</gx:coord>
+					<gx:coord>139.270475 36.053999 82</gx:coord>
+					<gx:coord>139.270257 36.053423 83</gx:coord>
+					<gx:coord>139.269857 36.052666 82.72</gx:coord>
+					<gx:coord>139.269421 36.052031 82.84</gx:coord>
+					<gx:coord>139.268767 36.051576 83.19</gx:coord>
+					<gx:coord>139.268186 36.051274 84.99</gx:coord>
+					<gx:coord>139.267423 36.051031 85</gx:coord>
+					<gx:coord>139.266442 36.050971 84</gx:coord>
+					<gx:coord>139.265461 36.05091 84</gx:coord>
+					<gx:coord>139.26448 36.05085 86</gx:coord>
+					<gx:coord>139.263535 36.050819 88</gx:coord>
+					<gx:coord>139.262712 36.050824 88</gx:coord>
+					<gx:coord>139.262778 36.050603 88.04000000000001</gx:coord>
+					<gx:coord>139.26218 36.050464 89</gx:coord>
+					<gx:coord>139.261349 36.050658 91.36</gx:coord>
+					<gx:coord>139.260352 36.050741 94</gx:coord>
+					<gx:coord>139.259288 36.051018 93.34</gx:coord>
+					<gx:coord>139.258291 36.051129 92.04000000000001</gx:coord>
+					<gx:coord>139.257659 36.051101 91.81999999999999</gx:coord>
+					<gx:coord>139.256496 36.050797 91.33</gx:coord>
+					<gx:coord>139.255631 36.050519 91</gx:coord>
+					<gx:coord>139.2549 36.05027 92</gx:coord>
+					<gx:coord>139.254435 36.049882 93</gx:coord>
+					<gx:coord>139.25367 36.049744 93</gx:coord>
+					<gx:coord>139.252673 36.049439 95.11</gx:coord>
+					<gx:coord>139.252074 36.049217 94.62000000000001</gx:coord>
+					<gx:coord>139.251676 36.04858 96</gx:coord>
+					<gx:coord>139.251343 36.047638 98.76000000000001</gx:coord>
+					<gx:coord>139.251011 36.047001 99.00000000000001</gx:coord>
+					<gx:coord>139.250778 36.046614 99.00000000000001</gx:coord>
+					<gx:coord>139.249814 36.046364 99.00000000000001</gx:coord>
+					<gx:coord>139.248352 36.046087 99.00000000000001</gx:coord>
+					<gx:coord>139.246889 36.045838 97</gx:coord>
+					<gx:coord>139.245858 36.045699 97</gx:coord>
+					<gx:coord>139.245327 36.045838 97</gx:coord>
+					<gx:coord>139.245327 36.045838 97</gx:coord>
+					<gx:coord>139.244918 36.045409 97.81999999999999</gx:coord>
+					<gx:coord>139.244488 36.04466 99.00000000000001</gx:coord>
+					<gx:coord>139.244215 36.044758 98.85999999999999</gx:coord>
+					<gx:coord>139.24398 36.045506 97</gx:coord>
+					<gx:coord>139.243668 36.046027 97</gx:coord>
+					<gx:coord>139.24316 36.04645 96</gx:coord>
+					<gx:coord>139.242535 36.046841 96</gx:coord>
+					<gx:coord>139.242066 36.047329 97</gx:coord>
+					<gx:coord>139.241402 36.048013 98.00000000000001</gx:coord>
+					<gx:coord>139.24066 36.047492 98.00000000000001</gx:coord>
+					<gx:coord>139.239879 36.046938 99.06</gx:coord>
+					<gx:coord>139.238981 36.046352 101</gx:coord>
+					<gx:coord>139.237575 36.045474 102.25</gx:coord>
+					<gx:coord>139.236598 36.044855 101.29</gx:coord>
+					<gx:coord>139.235934 36.044399 101</gx:coord>
+					<gx:coord>139.235036 36.043976 101</gx:coord>
+					<gx:coord>139.234255 36.043683 100.85</gx:coord>
+					<gx:coord>139.233434 36.043456 104.8</gx:coord>
+					<gx:coord>139.233005 36.04313 105.12</gx:coord>
+					<gx:coord>139.23238 36.042251 106.06</gx:coord>
+					<gx:coord>139.231716 36.04173 109.05</gx:coord>
+					<gx:coord>139.230466 36.04134 117.17</gx:coord>
+					<gx:coord>139.229372 36.04121 118.31</gx:coord>
+					<gx:coord>139.228747 36.041437 109.11</gx:coord>
+					<gx:coord>139.228513 36.042186 111.88</gx:coord>
+					<gx:coord>139.228396 36.043195 113.24</gx:coord>
+					<gx:coord>139.228825 36.044432 113.43</gx:coord>
+					<gx:coord>139.228943 36.04518 113</gx:coord>
+					<gx:coord>139.228708 36.046027 113.35</gx:coord>
+					<gx:coord>139.227732 36.046743 115.98</gx:coord>
+					<gx:coord>139.225779 36.047491 125.16</gx:coord>
+					<gx:coord>139.224333 36.048077 127.12</gx:coord>
+					<gx:coord>139.223435 36.048338 124</gx:coord>
+					<gx:coord>139.222537 36.048207 124</gx:coord>
+					<gx:coord>139.221404 36.048142 124</gx:coord>
+					<gx:coord>139.220232 36.048305 123.1</gx:coord>
+					<gx:coord>139.218826 36.048695 126.77</gx:coord>
+					<gx:coord>139.217732 36.049021 129</gx:coord>
+					<gx:coord>139.216756 36.049411 129.06</gx:coord>
+					<gx:coord>139.215936 36.049769 130.53</gx:coord>
+					<gx:coord>139.21492 36.0499 135.69</gx:coord>
+					<gx:coord>139.213787 36.049704 138.84</gx:coord>
+					<gx:coord>139.212616 36.049574 138.03</gx:coord>
+					<gx:coord>139.2116 36.049965 134</gx:coord>
+					<gx:coord>139.210506 36.050453 134</gx:coord>
+					<gx:coord>139.20953 36.051006 135.55</gx:coord>
+					<gx:coord>139.208046 36.051364 137.71</gx:coord>
+					<gx:coord>139.206757 36.051722 137.31</gx:coord>
+					<gx:coord>139.205819 36.05182 135.13</gx:coord>
+					<gx:coord>139.205155 36.051852 137.83</gx:coord>
+					<gx:coord>139.203944 36.052633 139</gx:coord>
+				</gx:Track>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>見どころスポット</name>
+		<snippet>Created 03/17/16 23:40:47</snippet>
+		<LookAt>
+			<longitude>139.243494</longitude>
+			<latitude>36.048678</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>9403.711894</range>
+		</LookAt>
+		<StyleMap id="waypoint">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#waypoint_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#waypoint_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="waypoint_n">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="waypoint_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>Waypoints</name>
+			<Placemark>
+				<name>埼玉伝統工芸会館</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.280741,36.052569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>カタクリとオオムラサキの林</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.28339,36.0464,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>カタクリとニリンソウの里</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.27435,36.05215,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>パトリアおがわ</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.237311,36.044788,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>東秩父農産物直売所</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.22515,36.047634,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>和紙の里</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.203598,36.05248,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

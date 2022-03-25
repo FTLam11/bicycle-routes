@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>57 所沢航空記念公園探訪ルート</name>
+	<open>1</open>
+	<Document>
+		<name>ルート</name>
+		<snippet>Created 07/08/16 23:51:13</snippet>
+		<LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-30T04:07:08Z</begin>
+				<end>2015-10-30T04:15:00Z</end>
+			</gx:TimeSpan>
+			<longitude>139.473828</longitude>
+			<latitude>35.79858</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1953.100184</range>
+		</LookAt>
+		<Style id="multiTrack_n">
+			<IconStyle>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="multiTrack">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#multiTrack_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#multiTrack_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="multiTrack_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>8</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<Placemark>
+				<name>57 所沢航空記念公園探訪ルート</name>
+				<styleUrl>#multiTrack</styleUrl>
+				<gx:Track>
+					<when>2015-10-30T04:07:08Z</when>
+					<when>2015-10-30T04:07:13Z</when>
+					<when>2015-10-30T04:07:21Z</when>
+					<when>2015-10-30T04:07:30Z</when>
+					<when>2015-10-30T04:07:38Z</when>
+					<when>2015-10-30T04:07:46Z</when>
+					<when>2015-10-30T04:07:58Z</when>
+					<when>2015-10-30T04:08:12Z</when>
+					<when>2015-10-30T04:08:24Z</when>
+					<when>2015-10-30T04:08:39Z</when>
+					<when>2015-10-30T04:08:54Z</when>
+					<when>2015-10-30T04:09:12Z</when>
+					<when>2015-10-30T04:09:25Z</when>
+					<when>2015-10-30T04:09:41Z</when>
+					<when>2015-10-30T04:09:57Z</when>
+					<when>2015-10-30T04:10:09Z</when>
+					<when>2015-10-30T04:10:15Z</when>
+					<when>2015-10-30T04:10:22Z</when>
+					<when>2015-10-30T04:10:26Z</when>
+					<when>2015-10-30T04:10:32Z</when>
+					<when>2015-10-30T04:10:37Z</when>
+					<when>2015-10-30T04:10:43Z</when>
+					<when>2015-10-30T04:10:49Z</when>
+					<when>2015-10-30T04:10:55Z</when>
+					<when>2015-10-30T04:10:59Z</when>
+					<when>2015-10-30T04:11:04Z</when>
+					<when>2015-10-30T04:11:09Z</when>
+					<when>2015-10-30T04:11:13Z</when>
+					<when>2015-10-30T04:11:18Z</when>
+					<when>2015-10-30T04:11:22Z</when>
+					<when>2015-10-30T04:11:25Z</when>
+					<when>2015-10-30T04:11:37Z</when>
+					<when>2015-10-30T04:11:46Z</when>
+					<when>2015-10-30T04:11:54Z</when>
+					<when>2015-10-30T04:12:05Z</when>
+					<when>2015-10-30T04:12:15Z</when>
+					<when>2015-10-30T04:12:27Z</when>
+					<when>2015-10-30T04:12:39Z</when>
+					<when>2015-10-30T04:12:53Z</when>
+					<when>2015-10-30T04:13:05Z</when>
+					<when>2015-10-30T04:13:16Z</when>
+					<when>2015-10-30T04:13:28Z</when>
+					<when>2015-10-30T04:13:39Z</when>
+					<when>2015-10-30T04:13:44Z</when>
+					<when>2015-10-30T04:13:49Z</when>
+					<when>2015-10-30T04:13:54Z</when>
+					<when>2015-10-30T04:14:02Z</when>
+					<when>2015-10-30T04:14:08Z</when>
+					<when>2015-10-30T04:14:14Z</when>
+					<when>2015-10-30T04:14:21Z</when>
+					<when>2015-10-30T04:14:28Z</when>
+					<when>2015-10-30T04:14:35Z</when>
+					<when>2015-10-30T04:14:42Z</when>
+					<when>2015-10-30T04:14:49Z</when>
+					<when>2015-10-30T04:14:56Z</when>
+					<when>2015-10-30T04:15:00Z</when>
+					<gx:coord>139.466918 35.799267 71</gx:coord>
+					<gx:coord>139.467197 35.799533 71</gx:coord>
+					<gx:coord>139.467712 35.799842 70</gx:coord>
+					<gx:coord>139.468313 35.800159 70</gx:coord>
+					<gx:coord>139.468871 35.800383 70</gx:coord>
+					<gx:coord>139.46945 35.800528 70</gx:coord>
+					<gx:coord>139.470319 35.800683 70</gx:coord>
+					<gx:coord>139.471295 35.800837 70</gx:coord>
+					<gx:coord>139.472121 35.800992 71</gx:coord>
+					<gx:coord>139.473216 35.801164 71</gx:coord>
+					<gx:coord>139.474256 35.801352 71</gx:coord>
+					<gx:coord>139.475512 35.801593 72</gx:coord>
+					<gx:coord>139.476445 35.801756 71</gx:coord>
+					<gx:coord>139.477572 35.801936 71</gx:coord>
+					<gx:coord>139.478741 35.802142 71</gx:coord>
+					<gx:coord>139.479567 35.802279 70</gx:coord>
+					<gx:coord>139.479996 35.802339 70</gx:coord>
+					<gx:coord>139.479996 35.801713 70</gx:coord>
+					<gx:coord>139.479986 35.801327 70</gx:coord>
+					<gx:coord>139.479975 35.800786 70</gx:coord>
+					<gx:coord>139.479943 35.800331 70</gx:coord>
+					<gx:coord>139.479911 35.799747 70</gx:coord>
+					<gx:coord>139.479889 35.799207 70</gx:coord>
+					<gx:coord>139.479889 35.798709 70</gx:coord>
+					<gx:coord>139.479932 35.798408 70</gx:coord>
+					<gx:coord>139.480071 35.798022 70</gx:coord>
+					<gx:coord>139.480243 35.797636 69</gx:coord>
+					<gx:coord>139.480404 35.797275 64</gx:coord>
+					<gx:coord>139.480586 35.796881 64</gx:coord>
+					<gx:coord>139.480737 35.796555 63</gx:coord>
+					<gx:coord>139.480726 35.796349 63</gx:coord>
+					<gx:coord>139.479868 35.796125 63</gx:coord>
+					<gx:coord>139.479235 35.795979 64</gx:coord>
+					<gx:coord>139.478645 35.795876 64</gx:coord>
+					<gx:coord>139.477861 35.795808 64</gx:coord>
+					<gx:coord>139.477185 35.795799 64</gx:coord>
+					<gx:coord>139.476359 35.795739 64</gx:coord>
+					<gx:coord>139.47549 35.79561 64</gx:coord>
+					<gx:coord>139.474514 35.795404 66</gx:coord>
+					<gx:coord>139.473656 35.79525 66</gx:coord>
+					<gx:coord>139.472883 35.795121 66</gx:coord>
+					<gx:coord>139.472025 35.794958 66</gx:coord>
+					<gx:coord>139.471274 35.794821 66</gx:coord>
+					<gx:coord>139.471145 35.795224 66</gx:coord>
+					<gx:coord>139.470973 35.795619 67</gx:coord>
+					<gx:coord>139.470737 35.795971 67</gx:coord>
+					<gx:coord>139.470297 35.796391 68</gx:coord>
+					<gx:coord>139.469943 35.796683 68</gx:coord>
+					<gx:coord>139.469611 35.796984 69</gx:coord>
+					<gx:coord>139.469192 35.797353 69</gx:coord>
+					<gx:coord>139.468785 35.797722 70</gx:coord>
+					<gx:coord>139.468388 35.798057 71</gx:coord>
+					<gx:coord>139.468002 35.798417 71</gx:coord>
+					<gx:coord>139.467615 35.798752 72</gx:coord>
+					<gx:coord>139.467229 35.799104 71</gx:coord>
+					<gx:coord>139.467036 35.799267 71</gx:coord>
+				</gx:Track>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>見どころスポット</name>
+		<snippet>Created 03/18/16 16:58:16</snippet>
+		<LookAt>
+			<longitude>139.47262</longitude>
+			<latitude>35.79773</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1417.318425</range>
+		</LookAt>
+		<Style id="waypoint_n">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="waypoint">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#waypoint_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#waypoint_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="waypoint_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>Waypoints</name>
+			<Placemark>
+				<name>フォール大佐像</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.47135,35.79607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>所沢航空記念公園</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.47354,35.79865,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>所沢航空公園駅前(Start)</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.46694,35.79922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>少年飛行兵の像</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.47671,35.79939,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>大正天皇駐輦碑</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.47354,35.79679,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>木村・徳田両中尉記念塔</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.4783,35.79698,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

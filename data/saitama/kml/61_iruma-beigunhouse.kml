@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>61 入間・米軍ハウスにふらっと行くルート</name>
+	<open>1</open>
+	<Document>
+		<name>ルート</name>
+		<snippet>Created 07/08/16 23:54:30</snippet>
+		<LookAt>
+			<gx:TimeSpan>
+				<begin>2015-11-04T02:49:00Z</begin>
+				<end>2015-11-04T02:57:27Z</end>
+			</gx:TimeSpan>
+			<longitude>139.391308</longitude>
+			<latitude>35.833675</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>3663.5694</range>
+		</LookAt>
+		<Style id="multiTrack_n">
+			<IconStyle>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="multiTrack">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#multiTrack_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#multiTrack_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="multiTrack_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>99ffac59</color>
+				<width>8</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<Placemark>
+				<name>61 入間・米軍ハウスにふらっと行くルート</name>
+				<styleUrl>#multiTrack</styleUrl>
+				<gx:Track>
+					<when>2015-11-04T02:49:00Z</when>
+					<when>2015-11-04T02:49:04Z</when>
+					<when>2015-11-04T02:49:07Z</when>
+					<when>2015-11-04T02:49:11Z</when>
+					<when>2015-11-04T02:49:15Z</when>
+					<when>2015-11-04T02:49:21Z</when>
+					<when>2015-11-04T02:49:26Z</when>
+					<when>2015-11-04T02:49:32Z</when>
+					<when>2015-11-04T02:49:36Z</when>
+					<when>2015-11-04T02:49:42Z</when>
+					<when>2015-11-04T02:49:47Z</when>
+					<when>2015-11-04T02:49:53Z</when>
+					<when>2015-11-04T02:49:58Z</when>
+					<when>2015-11-04T02:50:02Z</when>
+					<when>2015-11-04T02:50:06Z</when>
+					<when>2015-11-04T02:50:11Z</when>
+					<when>2015-11-04T02:50:15Z</when>
+					<when>2015-11-04T02:50:20Z</when>
+					<when>2015-11-04T02:50:25Z</when>
+					<when>2015-11-04T02:50:30Z</when>
+					<when>2015-11-04T02:50:40Z</when>
+					<when>2015-11-04T02:50:49Z</when>
+					<when>2015-11-04T02:50:57Z</when>
+					<when>2015-11-04T02:51:06Z</when>
+					<when>2015-11-04T02:51:15Z</when>
+					<when>2015-11-04T02:51:22Z</when>
+					<when>2015-11-04T02:51:30Z</when>
+					<when>2015-11-04T02:51:39Z</when>
+					<when>2015-11-04T02:51:47Z</when>
+					<when>2015-11-04T02:51:54Z</when>
+					<when>2015-11-04T02:52:04Z</when>
+					<when>2015-11-04T02:52:14Z</when>
+					<when>2015-11-04T02:52:22Z</when>
+					<when>2015-11-04T02:52:30Z</when>
+					<when>2015-11-04T02:52:40Z</when>
+					<when>2015-11-04T02:52:50Z</when>
+					<when>2015-11-04T02:52:56Z</when>
+					<when>2015-11-04T02:53:01Z</when>
+					<when>2015-11-04T02:53:07Z</when>
+					<when>2015-11-04T02:53:14Z</when>
+					<when>2015-11-04T02:53:18Z</when>
+					<when>2015-11-04T02:53:22Z</when>
+					<when>2015-11-04T02:53:28Z</when>
+					<when>2015-11-04T02:53:36Z</when>
+					<when>2015-11-04T02:53:41Z</when>
+					<when>2015-11-04T02:53:50Z</when>
+					<when>2015-11-04T02:53:58Z</when>
+					<when>2015-11-04T02:54:07Z</when>
+					<when>2015-11-04T02:54:15Z</when>
+					<when>2015-11-04T02:54:23Z</when>
+					<when>2015-11-04T02:54:29Z</when>
+					<when>2015-11-04T02:54:35Z</when>
+					<when>2015-11-04T02:54:47Z</when>
+					<when>2015-11-04T02:54:58Z</when>
+					<when>2015-11-04T02:55:09Z</when>
+					<when>2015-11-04T02:55:20Z</when>
+					<when>2015-11-04T02:55:28Z</when>
+					<when>2015-11-04T02:55:37Z</when>
+					<when>2015-11-04T02:55:42Z</when>
+					<when>2015-11-04T02:55:47Z</when>
+					<when>2015-11-04T02:55:52Z</when>
+					<when>2015-11-04T02:55:57Z</when>
+					<when>2015-11-04T02:56:02Z</when>
+					<when>2015-11-04T02:56:08Z</when>
+					<when>2015-11-04T02:56:13Z</when>
+					<when>2015-11-04T02:56:17Z</when>
+					<when>2015-11-04T02:56:21Z</when>
+					<when>2015-11-04T02:56:26Z</when>
+					<when>2015-11-04T02:56:31Z</when>
+					<when>2015-11-04T02:56:35Z</when>
+					<when>2015-11-04T02:56:41Z</when>
+					<when>2015-11-04T02:56:46Z</when>
+					<when>2015-11-04T02:56:52Z</when>
+					<when>2015-11-04T02:56:58Z</when>
+					<when>2015-11-04T02:57:02Z</when>
+					<when>2015-11-04T02:57:08Z</when>
+					<when>2015-11-04T02:57:14Z</when>
+					<when>2015-11-04T02:57:19Z</when>
+					<when>2015-11-04T02:57:23Z</when>
+					<when>2015-11-04T02:57:27Z</when>
+					<gx:coord>139.384074 35.822458 120</gx:coord>
+					<gx:coord>139.384074 35.822793 120</gx:coord>
+					<gx:coord>139.384149 35.823059 119</gx:coord>
+					<gx:coord>139.384331 35.823351 119</gx:coord>
+					<gx:coord>139.384503 35.823574 119</gx:coord>
+					<gx:coord>139.384857 35.823926 118</gx:coord>
+					<gx:coord>139.385157 35.8242 118</gx:coord>
+					<gx:coord>139.385468 35.824484 118</gx:coord>
+					<gx:coord>139.385704 35.824732 117</gx:coord>
+					<gx:coord>139.386026 35.82505 117</gx:coord>
+					<gx:coord>139.386327 35.825342 117</gx:coord>
+					<gx:coord>139.386681 35.825659 116</gx:coord>
+					<gx:coord>139.38696 35.825943 116</gx:coord>
+					<gx:coord>139.387206 35.826166 115</gx:coord>
+					<gx:coord>139.387421 35.826372 115</gx:coord>
+					<gx:coord>139.387711 35.826638 115</gx:coord>
+					<gx:coord>139.387936 35.826895 114</gx:coord>
+					<gx:coord>139.388236 35.82717 113</gx:coord>
+					<gx:coord>139.388494 35.827445 113</gx:coord>
+					<gx:coord>139.388784 35.827719 113</gx:coord>
+					<gx:coord>139.389352 35.828286 113</gx:coord>
+					<gx:coord>139.389846 35.828749 112</gx:coord>
+					<gx:coord>139.390318 35.829161 112</gx:coord>
+					<gx:coord>139.390811 35.829642 111</gx:coord>
+					<gx:coord>139.391326 35.830105 110</gx:coord>
+					<gx:coord>139.391734 35.8305 110</gx:coord>
+					<gx:coord>139.392206 35.830981 109</gx:coord>
+					<gx:coord>139.392721 35.831462 108</gx:coord>
+					<gx:coord>139.393172 35.831891 107</gx:coord>
+					<gx:coord>139.393558 35.832268 106</gx:coord>
+					<gx:coord>139.394137 35.832818 105</gx:coord>
+					<gx:coord>139.394695 35.833367 104</gx:coord>
+					<gx:coord>139.395146 35.833796 102</gx:coord>
+					<gx:coord>139.395575 35.834208 102</gx:coord>
+					<gx:coord>139.396272 35.834045 102</gx:coord>
+					<gx:coord>139.396959 35.833908 102</gx:coord>
+					<gx:coord>139.397395 35.833862 102</gx:coord>
+					<gx:coord>139.397759 35.833871 102</gx:coord>
+					<gx:coord>139.398103 35.833605 102</gx:coord>
+					<gx:coord>139.398521 35.833365 102</gx:coord>
+					<gx:coord>139.398349 35.833159 102</gx:coord>
+					<gx:coord>139.398543 35.833425 102</gx:coord>
+					<gx:coord>139.398167 35.833656 102</gx:coord>
+					<gx:coord>139.397674 35.833991 102</gx:coord>
+					<gx:coord>139.397373 35.83424 102</gx:coord>
+					<gx:coord>139.396841 35.834612 101</gx:coord>
+					<gx:coord>139.39639 35.834998 101</gx:coord>
+					<gx:coord>139.396648 35.835805 100</gx:coord>
+					<gx:coord>139.396884 35.836508 99.00000000000001</gx:coord>
+					<gx:coord>139.39712 35.837178 98.00000000000001</gx:coord>
+					<gx:coord>139.39727 35.837676 97</gx:coord>
+					<gx:coord>139.39742 35.838139 97</gx:coord>
+					<gx:coord>139.396626 35.838294 98.00000000000001</gx:coord>
+					<gx:coord>139.395854 35.838483 98.00000000000001</gx:coord>
+					<gx:coord>139.395103 35.838654 99.00000000000001</gx:coord>
+					<gx:coord>139.39433 35.838809 100</gx:coord>
+					<gx:coord>139.393751 35.838946 99.00000000000001</gx:coord>
+					<gx:coord>139.393172 35.839083 100</gx:coord>
+					<gx:coord>139.392871 35.839135 100</gx:coord>
+					<gx:coord>139.392957 35.839616 98.00000000000001</gx:coord>
+					<gx:coord>139.393086 35.840096 96</gx:coord>
+					<gx:coord>139.393215 35.840508 95</gx:coord>
+					<gx:coord>139.393365 35.840954 95</gx:coord>
+					<gx:coord>139.393558 35.841487 95</gx:coord>
+					<gx:coord>139.393687 35.841847 95</gx:coord>
+					<gx:coord>139.393815 35.84219 95</gx:coord>
+					<gx:coord>139.393987 35.842431 95</gx:coord>
+					<gx:coord>139.394223 35.842688 95</gx:coord>
+					<gx:coord>139.394524 35.84286 95</gx:coord>
+					<gx:coord>139.394781 35.843032 95</gx:coord>
+					<gx:coord>139.395146 35.843186 95</gx:coord>
+					<gx:coord>139.395511 35.843341 94</gx:coord>
+					<gx:coord>139.395918 35.843461 93</gx:coord>
+					<gx:coord>139.396305 35.843598 93</gx:coord>
+					<gx:coord>139.396583 35.843735 92</gx:coord>
+					<gx:coord>139.396948 35.843959 91</gx:coord>
+					<gx:coord>139.397334 35.844199 91</gx:coord>
+					<gx:coord>139.397592 35.844491 91</gx:coord>
+					<gx:coord>139.397753 35.844686 91.52</gx:coord>
+					<gx:coord>139.39792 35.844892 92</gx:coord>
+				</gx:Track>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>見どころスポット</name>
+		<snippet>Created 03/18/16 16:59:38</snippet>
+		<LookAt>
+			<longitude>139.39123</longitude>
+			<latitude>35.8337</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>3662.763669</range>
+		</LookAt>
+		<Style id="waypoint_n">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="waypoint_h">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="waypoint">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#waypoint_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#waypoint_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<name>Waypoints</name>
+			<Placemark>
+				<name>ジョンソンタウン</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.39834,35.83305,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>稲荷山公園駅</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.39807,35.84492,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>航空自衛隊入間基地</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.39732,35.84299,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>彩の森入間公園</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.39845,35.83481,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>小谷田交差点(Start)</name>
+				<styleUrl>#waypoint</styleUrl>
+				<Point>
+					<coordinates>139.38401,35.82248,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

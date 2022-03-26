@@ -4,10 +4,21 @@ require 'json'
 require 'nokogiri'
 require 'pry'
 
+module StringRefinements
+  refine String do
+    def sanitize
+      # Interpunct, blank space, full width space
+      gsub(/[・\s　]/, '')
+    end
+  end
+end
+
 # Combine multiple KML files and categorize them by region
 # TODO: Generalize the routine for any bicycle route
 class KmlGenerator
   attr_reader :route_metadata, :out
+
+  using StringRefinements
 
   REGION_COLOR_LEGEND = {
     利根: 'bf673ab7',
@@ -37,30 +48,21 @@ class KmlGenerator
     add_region_nodes
     add_routes
 
-    @out.write_xml_to(File.new('out.kml', 'w+'))
+    @out.write_xml_to(File.new('out.kml', 'w+'), encoding: 'UTF-8')
   end
 
   private
 
   def add_region_nodes
     main_node = @out.at('Folder')
+
     REGION_COLOR_LEGEND.each_key { |region| add_folder_node(region, main_node) }
   end
 
-  # TODO: Sanitize KML and metadata route names - inconsistent characters and
-  # punctuation
   def add_routes
     Dir['data/saitama/kml/*.{kml}'].each do |path|
       kml = Nokogiri::XML(File.read(path))
-      route_name = kml.at('Folder name').text.gsub(/・\b/, '')
-      route_region = @route_metadata.find { |route| route[:route_name] == route_name }
-
-      next if route_region.nil?
-
-      region_name = route_region[:region]
-      region_name_node = @out.css('Folder name').find { |node| node.text == region_name }
-
-      next if region_name_node.nil?
+      region_name_node = @out.css('Folder name').find { |node| node.text == region_name(kml) }
 
       style_route(kml)
       region_name_node.parent << kml.at('Folder')
@@ -82,9 +84,13 @@ class KmlGenerator
   end
 
   def style_route(route_kml)
-    route_name = route_kml.at('Folder name').text
-    region = @route_metadata.find { |route| route[:route_name] == route_name }[:region]
+    route_kml.css('color').each do |node|
+      node.content = REGION_COLOR_LEGEND[region_name(route_kml).to_sym]
+    end
+  end
 
-    route_kml.css('color').each { |node| node.content = REGION_COLOR_LEGEND[region.to_sym] }
+  def region_name(route_kml)
+    route_name = route_kml.at('Folder name').text.sanitize
+    @route_metadata.find { |route| route[:route_name].sanitize == route_name }[:region]
   end
 end

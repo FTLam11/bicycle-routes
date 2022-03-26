@@ -20,3 +20,8 @@ Get on a bicycle and go ride one of these routes
 * 北部: #c7009688
 * 本庄: #cf795548
 * 秩父: #d9ffeb3b
+
+## Data Sources
+
+* https://www.pref.saitama.lg.jp/a1006/gurutto/gurutto-route100karute.html
+* http://isonpu.web.fc2.com/other/route100.html
